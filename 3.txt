@@ -1,0 +1,8 @@
+types of datatypes in js
+
+1-primitive datatype-data stored in stack:-(string{""},number{43},boolean{true or false},null,undefined{var name;(defualt value will be undefine)},symbol)
+
+
+
+
+2-refernce datatype-data stored in heap(dynamically):-(arrys,object literals,function,dates)
